@@ -66,7 +66,8 @@
 - **Smart output panel** with ✅ Success & ❌ Error states
 - **Cloud-based execution** via One Compiler API
 
-</td>
+</td></td>
+
 <td width="50%" valign="top">
 
 ### 🤝 Community & Sharing
@@ -90,6 +91,7 @@
 - **Secure auth** via Clerk — no passwords to manage
 
 </td>
+
 <td width="50%" valign="top">
 
 ### 🔬 AI Repo Analyzer &nbsp;`✦ NEW`
@@ -157,7 +159,7 @@
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/compileX.git
+git clone https://github.com/Acelake123/compileX.git
 cd compileX
 ```
 
